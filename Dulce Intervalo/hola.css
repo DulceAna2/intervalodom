@@ -1,0 +1,20 @@
+.body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(195, 174, 215);
+}
+.tbody{
+    margin-top: inherit;
+     width: 200px;
+     align-items: center;
+}
+.par{
+    background-color: rgb(240, 194, 229);
+}
+.impar{
+    background-color: rgb(204, 182, 236);
+}
+.centro{
+    text-align: center;
+}
